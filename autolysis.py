@@ -1,3 +1,15 @@
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#   "httpx",
+#   "pandas",
+#   "seaborn",
+#   "matplotlib",
+#   "numpy",
+#   "scikit-learn",
+#   "openai==0.28"
+# ]
+# ///
 import argparse
 import pandas as pd
 import numpy as np
